@@ -1,9 +1,9 @@
-Hoboken CM: Data Sources
-========================
+Hoboken CM: Crowd Reporting
+===========================
 
-The Data Sources package runs a service that pulls posts from sources like
-Twitter and saves the posts as Reports. Other tools can then process the
-stored Reports, classifying, displaying, and so on.
+The Crowd Reporting package runs a service that pulls posts from sources
+like Twitter and saves the posts as Reports. Other tools can then process
+the stored Reports, classifying, displaying, and so on.
 
 
 ## Usage
@@ -56,5 +56,4 @@ Potential data sources:
 * Facebook
 * Email
 * News
-* Weather (forecast.io, weather.com)
 * Other (manual report entry)
