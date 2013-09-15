@@ -55,5 +55,7 @@ Potential data sources:
 * Twitter
 * Facebook
 * Email
+* Instagram
+* SMS
 * News
 * Other (manual report entry)
