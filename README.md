@@ -17,8 +17,8 @@ Requires:
 
 1.  Clone the project:
 
-        $ git clone git@github.com:HobokenCM/data-sources.git
-        $ cd data-sources
+        $ git clone git@github.com:HobokenCM/crowd-reporting.git
+        $ cd crowd-reporting
 
 2.  Create an `env.coffee` file in the project root that follows this template:
 
